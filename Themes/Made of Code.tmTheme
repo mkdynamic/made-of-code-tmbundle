@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>comment</key>
-	<string>mkdynamic</string>
 	<key>name</key>
 	<string>Made of Code</string>
 	<key>settings</key>
@@ -169,7 +167,7 @@
 			<key>name</key>
 			<string>♦ Embedded Source (Bright)</string>
 			<key>scope</key>
-			<string>text source</string>
+			<string>text source, meta.embedded</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>

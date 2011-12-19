@@ -4,6 +4,12 @@
 <dict>
 	<key>name</key>
 	<string>Made of Code</string>
+	<key>description</key>
+	<string>Vibrant colors on a deep blue background.</string>
+	<key>contactName</key>
+	<string>Mark Dodwell</string>
+	<key>contactEmailRot13</key>
+	<string>mark@madeofcode.com</string>
 	<key>uuid</key>
 	<string>BC5DE172-1E1A-457C-8807-0B958DDE5B2D</string>
 </dict>
