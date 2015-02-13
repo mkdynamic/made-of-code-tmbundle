@@ -1,0 +1,11 @@
+{
+  "name": "Made of Code",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "",
+  "repository": "https://github.com/mkdynamic/made-of-code-tmbundle",
+  "license": "",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
