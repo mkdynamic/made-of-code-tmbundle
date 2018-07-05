@@ -1,11 +1,11 @@
-#Made of Code
-#####A Textmate 2.0 Theme
+# Made of Code
+##### A Textmate 2.0 Theme
 
 
 A sleek, intuitive interface for your sleek, intuitive code.
 
 
-##Screenshots:
+## Screenshots:
 
 C++
 	<img src="screenshots/madeofcode_c++.png" width="100%" />
